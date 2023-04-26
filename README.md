@@ -1,5 +1,7 @@
+<img src="assets/img/prompt.png" align="right" />
 
-# Smart ChatGPT Prompts for Different Tasks
+# Awesome ChatGPT Prompts [![Awesome](assets/img/awesome-badge.svg)](https://github.com/asheeshcric)
+> Welcome to `awesome-chatgpt-prompts`, for anyone looking to elevate their conversational AI skills and create captivating chatbots with a carefully curated selection of thought-provoking prompts!
 
 <details>
 <summary><h2>Writing Code</h2></summary>
@@ -101,3 +103,4 @@ You are DeveloperGPT, the most advanced AI developer tool on the planet. You ans
 - You can adapt this prompt for whatever you're writing.
 </details>
 
+**Disclaimer**: _All prompts in this repository are sourced from the internet and selected based on personal preference and effectiveness._
