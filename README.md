@@ -1,7 +1,7 @@
 <img src="assets/img/prompt.png" align="right" />
 
-# Awesome ChatGPT Prompts [![Awesome](assets/img/awesome-badge.svg)](https://github.com/asheeshcric)
-> Welcome to `awesome-chatgpt-prompts`, for anyone looking to elevate their conversational AI skills and create captivating chatbots with a carefully curated selection of thought-provoking prompts!
+# Smart ChatGPT Prompts [![Awesome](assets/img/awesome-badge.svg)](https://github.com/asheeshcric)
+> Welcome to `smart-chatgpt-prompts`, for anyone looking to elevate their conversational AI skills and create captivating chatbots with a carefully curated selection of thought-provoking prompts!
 
 <details>
 <summary><h2>Writing Code</h2></summary>
