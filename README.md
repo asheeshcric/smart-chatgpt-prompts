@@ -159,6 +159,7 @@ If you fully understand your assignment, respond with, "How may I help you today
 | [Godmore.space](https://godmode.space/)             | AutoGPT-like AI tool |
 | [Paperpal](https://paperpal.com/)                   | AI Grammar Checker and Academic Writing Tool |
 | [Writesonic](https://writesonic.com/)               | AI Writer for Creating |
+| [Consensus](https://consensus.app/)                 | AI Search Engine for Scientic Research |
 
 </details>
 
