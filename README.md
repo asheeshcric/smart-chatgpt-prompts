@@ -148,6 +148,57 @@ If you fully understand your assignment, respond with, "How may I help you today
 </details>
 
 <details>
+<summary><h2>Business</h2></summary>
+
+#### 1. Optimize your pricing strategy.
+Prompt:
+> "Analyze my current pricing strategy for [insert product or service]. 
+Suggest improvements and help me develop a new pricing strategy that maximizes profitability and customer satisfaction."
+________
+#### 2. Generate innovative product ideas.
+Prompt:
+> "Brainstorm creative and unique product ideas for [insert industry or market]. 
+Focus on solving customer pain points and providing exceptional value."
+________
+#### 3. Develop a unique value proposition.
+Prompt:
+> "Help me articulate a unique value proposition for my [insert product or service]. 
+Explain how this proposition differentiates my offering and appeals to my target audience."
+________
+#### 4. Master the art of storytelling for marketing.
+Prompt:
+> "Teach me storytelling techniques for creating compelling marketing content to promote [insert product or service]."
+________
+#### 5. Create a successful referral program.
+Prompt:
+> "Design a referral program for [insert business] that incentivizes customers to share and recommend our products or services."
+________
+#### 6. Master the art of upselling and cross-selling.
+Prompt:
+> "Teach me effective upselling and cross-selling techniques to increase revenue and customer satisfaction in [insert business context].".
+________
+#### 7. Create a viral marketing campaign.
+Prompt:
+> "Design a creative and attention-grabbing marketing campaign for [insert product or service] with the potential to go viral."
+________
+#### 8. Develop a powerful elevator pitch.
+Prompt:
+> "[Insert a brief description of your product, service, or company]. 
+> Help me create a concise and compelling elevator pitch that will effectively communicate the value of my offering."
+________
+#### 9. Create an actionable marketing plan.
+Prompt:
+> "Develop a marketing plan for [insert product or service]. 
+> Include objectives, target audience, marketing channels, and tactics for reaching my desired audience and driving sales."
+________
+#### 10. Leverage content marketing for lead generation.
+Prompt:
+> "Develop a content marketing strategy for [insert business] to attract, engage, and convert leads into customers."
+________
+
+</details>
+
+<details>
 <summary><h2>ChatGPT Alternatives</h2></summary>
 
 |                      Link                           |                  Description              |
