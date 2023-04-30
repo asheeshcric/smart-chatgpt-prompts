@@ -156,6 +156,7 @@ If you fully understand your assignment, respond with, "How may I help you today
 | [HuggingChat](https://huggingface.co/chat/)         | Open-source Chatbot by HuggingFace |
 | [Perplexity.ai](https://www.perplexity.ai/)         | Discovery and search engine |
 | [Forefront Chat](https://chat.forefront.ai/)        | Chatbot like ChatGPT (GPT4/GPT3.5) |
+| [POE](https://poe.com/)                             | Fast, helpful AI Chat |
 | [Godmore.space](https://godmode.space/)             | AutoGPT-like AI tool |
 | [Paperpal](https://paperpal.com/)                   | AI Grammar Checker and Academic Writing Tool |
 | [Writesonic](https://writesonic.com/)               | AI Writer for Creating |
