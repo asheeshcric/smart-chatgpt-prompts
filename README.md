@@ -212,6 +212,7 @@ ________
 | [Paperpal](https://paperpal.com/)                   | AI Grammar Checker and Academic Writing Tool |
 | [Writesonic](https://writesonic.com/)               | AI Writer for Creating |
 | [Consensus](https://consensus.app/)                 | AI Search Engine for Scientic Research |
+| [SciSpace](https://typeset.io/)                     | Scientific Papers Summarizer |
 
 </details>
 
