@@ -213,6 +213,7 @@ ________
 | [Writesonic](https://writesonic.com/)               | AI Writer for Creating |
 | [Consensus](https://consensus.app/)                 | AI Search Engine for Scientic Research |
 | [SciSpace](https://typeset.io/)                     | Scientific Papers Summarizer |
+| [Jasper AI](https://www.jasper.ai/)                 | AI Content Creation Tool | 
 
 </details>
 
